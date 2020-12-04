@@ -1,0 +1,3 @@
+/home/km/test/CMakeFiles/rebuild_cache.dir
+/home/km/test/CMakeFiles/list1.dir
+/home/km/test/CMakeFiles/edit_cache.dir

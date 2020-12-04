@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/list1.dir/list1main.c.o  -o list1 
