@@ -44,3 +44,5 @@ int main(int argc, char* argv[]){
     printf("%s%s!\n", greeting,target);
     return EXIT_SUCCESS;
 }
+
+// 주석 추가
